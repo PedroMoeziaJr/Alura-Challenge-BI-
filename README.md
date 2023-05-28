@@ -13,5 +13,5 @@ Rápida descrição do objetivo de fazer esse projeto
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
-
+[7ea98b2020da4dbfa993b5c1b8d0b88c.pdf](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/files/11586084/7ea98b2020da4dbfa993b5c1b8d0b88c.pdf)
 Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
