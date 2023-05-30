@@ -5,7 +5,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev | Challenge BI 3 |
 | -------------  | --- |
 | :sparkles: Nome        | Análise da campanha Bloco de Código
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | Qlik Sense
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
