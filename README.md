@@ -15,6 +15,9 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Meu primeiro projeto no GITHUB!
+Meu primeiro projeto no GITHUB e meu primeiro Alura Challenge!
 
-Trata-se do meu primeir  Alura Challenge 
+|Projeto criado no Qlik Sense Desktop. Como a minha licença do Qlik Sense é de desenvolvedor não foi possível eu compartilhar minha dashboard. |
+|Porém fiz vários prints da minha dashboard no Qlik Sense Desktop enquanto realizava os trabalhos.|
+Nesta primeira semana do Alura Challenge 
+
