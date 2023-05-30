@@ -1,6 +1,6 @@
-# (Challenge BI 3) Analise da Campanha da organização Bloco de Código
+# Challenge BI 3 
 
-Rápida descrição do objetivo de fazer esse projeto
+Analise da Campanha da organização Bloco de Código
 
 | :placard: Vitrine.Dev | Challenge BI 3 |
 | -------------  | --- |
