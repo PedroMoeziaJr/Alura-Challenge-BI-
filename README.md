@@ -6,8 +6,8 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | Análise da campanha Bloco de Código
 | :label: Tecnologias | Qlik Sense
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | [https://url-do-desafio.com.br](https://www.alura.com.br/challenges/bi-3/semana-01-analisando-campanha-marketing)
+| :rocket: URL         | https://trello.com/b/WqVjP8hq/challenge-bi-semana-1
+| :fire: Desafio     | https://www.alura.com.br/challenges/bi-3/semana-01-analisando-campanha-marketing
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/7b310554-b805-41a1-9e4e-54f041e812de)
