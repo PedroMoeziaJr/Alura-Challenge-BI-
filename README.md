@@ -7,16 +7,14 @@ Rápida descrição do objetivo de fazer esse projeto
 | :sparkles: Nome        | Análise da campanha Bloco de Código
 | :label: Tecnologias | Qlik Sense
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | [https://url-do-desafio.com.br](https://www.alura.com.br/challenges/bi-3/semana-01-analisando-campanha-marketing)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/4b46ec35-560b-41d0-a5eb-f4d1d61c2508)
-![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/e94c58a8-b37a-45e3-b552-258e64932c5d)
-
-
+![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/7b310554-b805-41a1-9e4e-54f041e812de)
+![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/bded6027-7c03-44f9-801d-a8e6ed8fb7f3)
 
 ## Detalhes do projeto
-[7ea98b2020da4dbfa993b5c1b8d0b88c.pdf](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/files/11586084/7ea98b2020da4dbfa993b5c1b8d0b88c.pdf)
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
+Meu primeiro projeto no GITHUB!
+
+Trata-se do meu primeir  Alura Challenge 
