@@ -17,7 +17,16 @@ Rápida descrição do objetivo de fazer esse projeto
 
 Meu primeiro projeto no GITHUB e meu primeiro Alura Challenge!
 
-|Projeto criado no Qlik Sense Desktop. Como a minha licença do Qlik Sense é de desenvolvedor não foi possível eu compartilhar minha dashboard. |
-|Porém fiz vários prints da minha dashboard no Qlik Sense Desktop enquanto realizava os trabalhos.|
-Nesta primeira semana do Alura Challenge 
+Projeto criado no Qlik Sense Desktop. Como a minha licença do Qlik Sense é de desenvolvedor não foi possível eu compartilhar minha dashboard.
+Porém fiz vários prints da minha dashboard no Qlik Sense Desktop enquanto realizava os trabalhos destacando os melhores insights.
 
+
+
+![Visão Geral](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/872d0b51-2de8-4db8-b1fe-073e920fad88)
+![Visão Geral 2](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/8881027f-4ad5-414b-af5f-4aebf34c3b78)
+![Artigos mais lidos](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/b8919717-226e-4856-82df-5011584eaab8)
+![Artigos mais lidos 2](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/0034e6ba-4b94-4138-9a44-612eae23ec19)
+![artigos mais lidos 3](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/fbcfad28-2b24-4ba3-bff6-e3cb8a70b813)
+![artigos mais lidos 4](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/eab7f73e-5ca3-438d-8fc3-03f5e5c35ee4)
+![Novos usuários 1](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/9ccb7794-4539-409d-b49e-f1c8a21f35f8)
+![Novos usuários 2](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/19e59a52-3568-4334-8acc-cddd167744c6)
