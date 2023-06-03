@@ -13,7 +13,7 @@ Analise da Campanha da organização Bloco de Código
 ![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/7b310554-b805-41a1-9e4e-54f041e812de)
 ![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/bded6027-7c03-44f9-801d-a8e6ed8fb7f3)
 
-## Detalhes do projeto
+## Detalhes do projeto da Semana 1
 
 Meu primeiro projeto no GITHUB e meu primeiro Alura Challenge!
 
@@ -30,3 +30,6 @@ Porém fiz vários prints da minha dashboard no Qlik Sense Desktop enquanto real
 ![artigos mais lidos 4](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/eab7f73e-5ca3-438d-8fc3-03f5e5c35ee4)
 ![Novos usuários 1](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/9ccb7794-4539-409d-b49e-f1c8a21f35f8)
 ![Novos usuários 2](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/19e59a52-3568-4334-8acc-cddd167744c6)
+
+## Detalhes do projeto da Semana 2
+
