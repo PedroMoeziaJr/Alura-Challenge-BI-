@@ -1,1 +1,27 @@
 ## Detalhes do projeto da Semana 2
+
+Detalhes dos requisitos do projeto:
+
+link trello
+
+|ETL no Qlik Desktop|
+
+Depois de extrair os dados da organização hermex, fiz a transformação dos dados da seguinte forma:
+
+Atribui nome as tabelas e padronizei o nome da coluna id_produto das tabelas para que o Qlik Sense pudesse fazer o relacionamento das tabelas e acabar com o problema de chaves sintéticas.
+
+Além disso renomeei o nome do campo Qunatidade da tabelas "estoque" para "quantidade estoque" para não haver o relacionamento com a coluna "quantidade" de outra tabela.
+
+Outro detalhe é que o campo UF tinha os registro dos estados da seguinte forma: "BR-PA", sendo que interessa para o registro apenas o PA.
+
+Desta forma utilizei a função replace do Qlik Sense no carregamento de dados para o registro apresentar somente o as siglas da UF.
+
+>Replace(UF, 'BR-', '') as UF
+
+O campo ESTADO estava sem registro, diante disso criei uma condicional no Qlik Sense na parte de carregamento de dados para poder poder preencher os registros dos ESTADOS.
+
+>IF(UF = 'BR-PA' or UF = 'Pará','') 
+
+E assim por diante em todos os UF registrados 
+
+No campo UF com o registro
