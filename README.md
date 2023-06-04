@@ -33,3 +33,4 @@ Porém fiz vários prints da minha dashboard no Qlik Sense Desktop enquanto real
 
 ## Detalhes do projeto da Semana 2
 
+![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-3/assets/112977342/86c0b218-27ea-40d8-aa96-09490a3ff718)
