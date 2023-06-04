@@ -10,7 +10,7 @@ Analise da Campanha da organização Bloco de Código
 | :fire: Desafio     | https://www.alura.com.br/challenges/bi-3/semana-01-analisando-campanha-marketing
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/7b310554-b805-41a1-9e4e-54f041e812de)
+![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/7b310554-b805-41a1-9e4e-54f041e812de)#vitrinedev
 ![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/bded6027-7c03-44f9-801d-a8e6ed8fb7f3)
 
 ## Detalhes do projeto da Semana 1
@@ -31,8 +31,4 @@ Porém fiz vários prints da minha dashboard no Qlik Sense Desktop enquanto real
 ![Novos usuários 1](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/9ccb7794-4539-409d-b49e-f1c8a21f35f8)
 ![Novos usuários 2](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/19e59a52-3568-4334-8acc-cddd167744c6)
 
-## Detalhes do projeto da Semana 2
 
-![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-3/assets/112977342/86c0b218-27ea-40d8-aa96-09490a3ff718)
-
-![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-3/assets/112977342/53b1c258-fa1e-43b8-a901-ce7bca17b418)
