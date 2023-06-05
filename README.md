@@ -10,7 +10,7 @@ Analise da Campanha da organização Bloco de Código
 | :fire: Desafio     | https://www.alura.com.br/challenges/bi-3/semana-01-analisando-campanha-marketing
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/7b310554-b805-41a1-9e4e-54f041e812de)#vitrinedev
+![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/7b310554-b805-41a1-9e4e-54f041e812de#vitrinedev)
 ![image](https://github.com/PedroMoeziaJr/Alura-Challenge-BI-/assets/112977342/bded6027-7c03-44f9-801d-a8e6ed8fb7f3)
 
 ## Detalhes do projeto da Semana 1
